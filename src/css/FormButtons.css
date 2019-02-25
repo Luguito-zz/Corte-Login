@@ -1,0 +1,28 @@
+.button-size{
+    height: 50px;
+    width: 279px;
+    border-radius: 8px;
+}
+.button-color{
+    background-color: rgb(89 152 175);
+}
+
+.button-font{
+    font-family: "SFProText-Bold";
+    font-size:14;
+    color:rgb(255 255 255);
+}
+
+.button-position{
+    margin-top:28pt;
+    margin-left: 48pt;
+}
+
+.link-text{
+    font-size:14px;
+    margin-left: 48pt;
+    margin-right: 49pt;
+    margin-top:16pt;
+    color:rgb(28 187 235);
+    text-decoration: none;
+}

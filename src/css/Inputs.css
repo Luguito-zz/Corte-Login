@@ -1,0 +1,12 @@
+.m-inputs{
+    margin-top: 28px;
+    margin-left: 48pt;
+    height: 40px;
+    border-radius: 8px;
+    border:0.5px rgb(197 197 197) solid;
+    background-color: rgb(235 235 235);
+}
+
+.text-color{
+    color:rgb(158 158 158);
+}

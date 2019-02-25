@@ -1,0 +1,36 @@
+.heigth-top-panel{
+    height: 141px;
+}
+
+.title{
+    font-family: "SFProText-Bold";
+    font-size: 27px;
+    color: rgb(255 255 255);
+}
+
+.bg-color{
+    background: -webkit-linear-gradient(#59d5e0, #6a62d2);
+    background: -o-linear-gradient(#59d5e0, #6a62d2); 
+    background: -moz-linear-gradient(#59d5e0, #6a62d2); 
+    background: linear-gradient(#59d5e0, #6a62d2); 
+    -webkit-box-shadow: -1px 4px 26px -1px rgba(0,0,0,0.40);
+    -moz-box-shadow: -1px 4px 26px -1px rgba(0,0,0,0.40);
+    box-shadow: -1px 4px 26px -1px rgba(0,0,0,0.40);
+}
+
+.atras-style{
+    font-family: "SFCompactDisplay-Regular";
+    font-size: 14px;
+    color: rgb(255 255 255);
+}
+
+.position-title{
+    margin-left: 16px;
+    margin-top: 93px;
+}
+
+.atras{
+    position: absolute;
+    top: 55px;
+    left: 41px;
+}
