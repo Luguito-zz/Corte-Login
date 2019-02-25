@@ -8,7 +8,7 @@
 }
 
 .button-font{
-    font-family: "SFProText-Bold";
+    font-family: "SFCompactDisplay-Bold";
     font-size:14;
     color:rgb(255 255 255);
 }
@@ -19,10 +19,11 @@
 }
 
 .link-text{
+    font-family: "SFCompactDisplay-Light";
     font-size:14px;
     margin-left: 48pt;
     margin-right: 49pt;
-    margin-top:16pt;
+    margin-top:16px;
     color:rgb(28 187 235);
     text-decoration: none;
 }

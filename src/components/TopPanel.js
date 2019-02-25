@@ -7,7 +7,7 @@ const TopPanel = () =>{
             <div className="row">
                 <p className="atras-style atras">Atrás</p>
             </div>
-            <h1 className="col-12 title position-title">Iniciar Sesion</h1>
+            <h1 className="col-12 title position-title">Iniciar sesión</h1>
         </div>
     )
 }

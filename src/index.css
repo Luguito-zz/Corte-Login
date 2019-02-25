@@ -7,17 +7,23 @@ html,body {
     sans-serif;
 }
 
-@font-face{
-  font-family: "SFProText-Bold";
-  src: url('./sf-font-family/SFProDisplay-Bold.ttf');
+@font-face {
+  font-family: 'SF Compact Display Thin';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SF Compact Display Thin'), url('./sf-font-family/sf-compact-display-thin-58646eb43a785.woff') format('woff');
 }
-
-@font-face{
-  font-family: "SFCompactDisplay-Regular";
-  src: url('./sf-font-family/SF-Compact-Display-Regular.otf');
+  
+  
+@font-face {
+  font-family: 'SF Compact Display Medium';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SF Compact Display Medium'), url('./sf-font-family/sf-compact-display-medium-5864711817c30.woff') format('woff');
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace, "SFProText-Bold", "SFCompactDisplay-Regular";
 }
+/*SFCompactDisplay-RegularSFProText-Bold*/

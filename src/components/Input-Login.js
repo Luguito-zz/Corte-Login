@@ -14,7 +14,7 @@ class InputLogin extends Component{
                         <input type="email" className="col-8 m-inputs text-color" placeholder="Correo Electronico"/>
                     </div>
                     <div className="row">
-                        <input type="password" className="col-8 m-inputs text-color" placeholder="Password"/>
+                        <input type="password" className="col-8 m-inputs text-color" placeholder="Contraseña"/>
                     </div>
                     <FormButton name="Iniciar Sesión" link="¿Olvidaste tu contraseña?"/>
                 </form>

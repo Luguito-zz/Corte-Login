@@ -9,7 +9,7 @@
 }
 
 .n-a-button-font{
-    font-family: "SFProText-Bold";
+    font-family: "SFCompactDisplay-Bold";
     font-size:14;
     color:rgb(255 255 255);
 }
@@ -19,10 +19,11 @@
     margin-left: 48pt;
 }
 .n-a-link-text{
+    font-family: "SFCompactDisplay-Regular";
     font-size: 16px;
     text-align: center;
     margin-left: 48pt;
-    margin-bottom: 16pt;
+    margin-bottom: 16px;
     margin-top:267px;
     color:rgb(76 74 75);
     text-decoration: none;
